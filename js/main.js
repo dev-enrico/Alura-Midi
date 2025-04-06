@@ -31,4 +31,4 @@ for (let i = 0; i < keyList.length; i++) {
     }
 }
 }
-console.log('Testando commits com Git e GitHub');
+console.log('Testando commits com Git e GitHub, testando pelo source control');
